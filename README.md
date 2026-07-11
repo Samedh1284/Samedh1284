@@ -1,13 +1,22 @@
+<div align="center">
+
+# 👋 Hi, I'm Samedh Khobare
+
+### 📊 Data Analyst | BE Computer Science (AI & ML)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=Hi+👋,+I'm+Samedh+Khobare;Data+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau+%7C+Excel;Transforming+Data+into+Actionable+Insights;Building+Interactive+Dashboards;Always+Learning+and+Growing;Open+to+Data+Analyst+Opportunities" alt="Typing SVG"/>
+
+</div>
+
+---
 
 # 🚀 About Me
 
 ```yaml
-Name        : Samedh Khobare
-Education   : BE Computer Science (AI & ML)
-Role        : Data Analyst
-Location    : Maharashtra, India
+Name          : Samedh Khobare
+Education     : BE Computer Science (AI & ML)
+Role          : Aspiring Data Analyst
+Location      : Maharashtra, India
 
 Interests:
   - Data Analytics
@@ -21,8 +30,10 @@ Currently Learning:
   - Machine Learning
 
 Career Goal:
-  Deliver business value by transforming
-  raw data into actionable insights.
+  Build data-driven solutions by transforming
+  raw data into actionable business insights.
+```
+
 ---
 
 # 💻 Tech Stack
@@ -48,35 +59,29 @@ Career Goal:
 <table>
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📈 Online Retail Sales Analysis
 
-✔ Data Cleaning
+- 🧹 Data Cleaning
+- 📊 Exploratory Data Analysis (EDA)
+- 🗄 SQL Business Analysis
+- 📈 Interactive Tableau Dashboard
 
-✔ Exploratory Data Analysis
-
-✔ SQL Analysis
-
-✔ Tableau Dashboard
-
-**Tech:** Python • SQL • Tableau • Excel
+**Tech Stack:** Python • SQL • Tableau • Excel
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 💰 PhonePe Dashboard
 
-✔ KPI Dashboard
+- 📊 KPI Dashboard
+- 💹 Revenue Analysis
+- 🌍 State-wise Analysis
+- 📈 Interactive Reports
 
-✔ Revenue Analysis
-
-✔ Interactive Reports
-
-✔ Business Insights
-
-**Tech:** Power BI • Excel
+**Tech Stack:** Power BI • Excel
 
 </td>
 
@@ -84,33 +89,26 @@ Career Goal:
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📦 Amazon Sales Dashboard
 
-✔ Sales Analysis
+- 📈 Sales & Profit Analysis
+- 👥 Customer Insights
+- 📊 Interactive Dashboard
 
-✔ Profit Analysis
-
-✔ Customer Insights
-
-✔ Interactive Dashboard
-
-**Tech:** Tableau • Excel
+**Tech Stack:** Tableau • Excel
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🤖 AI Data Associate
 
-✔ Data Collection
-
-✔ Data Annotation
-
-✔ Dataset Validation
-
-✔ Quality Assurance
+- 🎥 Data Collection
+- 🏷 Data Annotation
+- ✅ Dataset Validation
+- 🔍 Quality Assurance
 
 </td>
 
@@ -125,15 +123,15 @@ Career Goal:
 <div align="center">
 
 <a href="https://github.com/Samedh1284">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -142,7 +140,7 @@ Career Goal:
 
 <div align="center">
 
-### 💡 *"Turning data into meaningful insights through analytics and visualization."*
+### 💡 *"Turning Data into Meaningful Insights Through Analytics & Visualization."*
 
 ⭐ **Thanks for visiting my profile!**
 
