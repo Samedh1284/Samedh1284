@@ -4,9 +4,7 @@
 
 # 👋 Hi, I'm **Samedh Khobare**
 
-### 📊 Data Analyst • AI & ML Graduate • Turning Data into Insights
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Python+%7C+SQL+%7C+Power+BI+%7C+Tableau+%7C+Excel;Building+Interactive+Dashboards;Transforming+Data+into+Insights;Always+Learning+New+Technologies;Open+to+Data+Analyst+Opportunities" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Data+analyst;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau+%7C+Excel;Building+Interactive+Dashboards;Transforming+Data+into+Insights;Always+Learning+New+Technologies;Open+to+Data+Analyst+Opportunities" alt="Typing SVG"/>
 
 </div>
 
