@@ -1,16 +1,60 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Samedh Khobare</h1>
 
-<!--
-**Samedh1284/Samedh1284** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Data Analyst | BE Computer Science (AI & ML)
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Turning Data into Insights 📊
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+🎓 BE Computer Science (AI & ML)
+
+📊 Aspiring Data Analyst
+
+📍 Maharashtra, India
+
+🌱 Currently learning Power BI, SQL & Machine Learning
+
+💼 Open to Data Analyst Opportunities
+
+---
+
+## 🛠 Skills
+
+- Python
+- SQL
+- Excel
+- Power BI
+- Tableau
+- MySQL
+- Pandas
+- NumPy
+- Git
+- GitHub
+
+---
+
+## 📂 Featured Projects
+
+📈 Online Retail Analysis
+
+💰 PhonePe Dashboard
+
+📦 Amazon Sales Dashboard
+
+📊 Excel Sales Dashboard
+
+---
+
+## 📫 Connect
+
+GitHub: https://github.com/Samedh1284
+
+LinkedIn: YOUR_LINKEDIN
+
+Email: YOUR_EMAIL
