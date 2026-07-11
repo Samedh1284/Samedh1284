@@ -11,7 +11,7 @@ Turning Data Into Insights 📈
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=800&lines=Data+Analyst;Python+Developer;SQL+%7C+Power+BI+%7C+Tableau;Machine+Learning+Enthusiast;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=800&lines=Data+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau;Always+Learning+New+Things" />
 </p>
 
 ---
