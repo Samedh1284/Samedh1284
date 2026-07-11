@@ -2,6 +2,10 @@
 
 # 👋 Hi, I'm Samedh Khobare
 
+</div>
+
+<div align="center">
+  
 <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=Hi+👋,+I'm+Samedh+Khobare;Data+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau+%7C+Excel;Transforming+Data+into+Actionable+Insights;Building+Interactive+Dashboards;Always+Learning+and+Growing;Open+to+Data+Analyst+Opportunities" alt="Typing SVG"/>
 
 </div>
@@ -124,11 +128,11 @@ Career Goal:
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/samedh-khobare-7b6592370/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:samed1284@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
