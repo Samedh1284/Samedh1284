@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Samedh+Khobare;Data+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau;Turning+Data+Into+Insights+📊" alt="Typing SVG" />
+</p>
 <h1 align="center">Hi 👋, I'm Samedh Khobare</h1>
 
 <h3 align="center">
