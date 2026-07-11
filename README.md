@@ -1,114 +1,165 @@
-<h1 align="center">Hi 👋, I'm Samedh Khobare</h1>
+<!--==================== HERO ====================-->
 
-<h3 align="center">📊 Data Analyst | AI & ML Graduate | Turning Data into Actionable Insights</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Data+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau;Data+Visualization+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG"/>
-</p>
+# 👋 Hi, I'm **Samedh Khobare**
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Samedh1284&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
+### 📊 Data Analyst • AI & ML Graduate • Data Visualization Enthusiast
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Python+%7C+SQL+%7C+Power+BI+%7C+Tableau;Transforming+Raw+Data+into+Business+Insights;Always+Learning+New+Technologies;Open+to+Data+Analyst+Opportunities"/>
 
-## 🚀 About Me
-
-🎓 **Bachelor of Engineering** in Computer Science (AI & ML)
-
-📊 Passionate about **Data Analytics**, **Business Intelligence**, and **Data Visualization**
-
-💼 Seeking opportunities as a **Data Analyst**
-
-📍 Maharashtra, India
-
-🌱 Currently exploring:
-- Advanced SQL
-- Power BI
-- Machine Learning
-- Data Storytelling
-
-⚡ Fun Fact: *I enjoy transforming raw data into meaningful business insights.*
+</div>
 
 ---
 
-## 💻 Tech Stack
+<!--==================== BANNER ====================-->
 
-<p align="center">
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=DATA%20ANALYST&fontAlign=50&fontAlignY=38&color=0:0F2027,50:203A43,100:2C5364&fontColor=ffffff&animation=fadeIn"/>
+
+</div>
+
+---
+
+# 🚀 About Me
+
+```yaml
+Name        : Samedh Khobare
+Education   : BE Computer Science (AI & ML)
+Role        : Data Analyst
+Location    : Maharashtra, India
+
+Focus:
+  - Data Analytics
+  - Business Intelligence
+  - Dashboard Development
+  - Data Visualization
+
+Currently Learning:
+  - Advanced SQL
+  - Power BI
+  - Machine Learning
+
+Goal:
+  Build data-driven solutions that solve
+  real-world business problems.
+```
+
+---
+
+# 💻 Tech Stack
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode"/>
 
-</p>
-
-<p align="center">
+<br><br>
 
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
 
-</p>
+<img src="https://img.shields.io/badge/Data%20Cleaning-0099ff?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data%20Visualization-6f42c1?style=for-the-badge"/>
+
+</div>
 
 ---
 
-## 📂 Featured Projects
+# 📂 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
 
 ### 📈 Online Retail Sales Analysis
-- Data Cleaning & Preprocessing
-- Exploratory Data Analysis (EDA)
-- SQL Business Queries
-- Interactive Tableau Dashboard
 
-### 💰 PhonePe Transaction Dashboard
-- KPI Dashboard
-- Revenue Analysis
-- State-wise Insights
-- Power BI Visualization
+✔ Data Cleaning
+
+✔ Exploratory Data Analysis
+
+✔ SQL Business Queries
+
+✔ Tableau Dashboard
+
+**Tech Stack**
+
+Python • SQL • Tableau • Excel
+
+</td>
+
+<td width="50%">
+
+### 💰 PhonePe Dashboard
+
+✔ KPI Dashboard
+
+✔ Revenue Analysis
+
+✔ Interactive Filters
+
+✔ Business Insights
+
+**Tech Stack**
+
+Power BI • Excel
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
 
 ### 📦 Amazon Sales Dashboard
-- Sales & Profit Analysis
-- Customer Insights
-- Interactive Tableau Dashboard
 
-### 📊 Excel Sales Dashboard
-- Dynamic Dashboard
-- Pivot Tables
-- Charts & KPIs
+✔ Sales Analysis
 
----
+✔ Profit Analysis
 
-## 💼 Experience
+✔ Customer Insights
+
+✔ Dynamic Dashboard
+
+**Tech Stack**
+
+Tableau • Excel
+
+</td>
+
+<td width="50%">
 
 ### 🤖 AI Data Associate
 
-- Data Collection
-- Data Annotation
-- Quality Validation
-- Dataset Preparation
-- AI Training Data Management
+✔ Data Collection
+
+✔ Data Annotation
+
+✔ Dataset Validation
+
+✔ AI Training Data
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-## 📈 Current Goals
+# 🌐 Connect With Me
 
-✅ Strengthen SQL & Python Skills
-
-✅ Build End-to-End Data Analytics Projects
-
-✅ Learn Advanced Power BI
-
-✅ Contribute to Open Source
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/Samedh1284">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
@@ -122,12 +173,12 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
 
-💡 <b>"Data is the new oil, but insights are the real fuel."</b>
+### ✨ *"Turning Data into Decisions through Analytics and Visualization."*
 
-</p>
+</div>
