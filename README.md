@@ -4,19 +4,9 @@
 
 # 👋 Hi, I'm **Samedh Khobare**
 
-### 📊 Data Analyst • AI & ML Graduate • Data Visualization Enthusiast
+### 📊 Data Analyst • AI & ML Graduate • Turning Data into Insights
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Python+%7C+SQL+%7C+Power+BI+%7C+Tableau;Transforming+Raw+Data+into+Business+Insights;Always+Learning+New+Technologies;Open+to+Data+Analyst+Opportunities"/>
-
-</div>
-
----
-
-<!--==================== BANNER ====================-->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=DATA%20ANALYST&fontAlign=50&fontAlignY=38&color=0:0F2027,50:203A43,100:2C5364&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Python+%7C+SQL+%7C+Power+BI+%7C+Tableau+%7C+Excel;Building+Interactive+Dashboards;Transforming+Data+into+Insights;Always+Learning+New+Technologies;Open+to+Data+Analyst+Opportunities" alt="Typing SVG"/>
 
 </div>
 
@@ -30,7 +20,7 @@ Education   : BE Computer Science (AI & ML)
 Role        : Data Analyst
 Location    : Maharashtra, India
 
-Focus:
+Interests:
   - Data Analytics
   - Business Intelligence
   - Dashboard Development
@@ -41,9 +31,9 @@ Currently Learning:
   - Power BI
   - Machine Learning
 
-Goal:
-  Build data-driven solutions that solve
-  real-world business problems.
+Career Goal:
+  Deliver business value by transforming
+  raw data into actionable insights.
 ```
 
 ---
@@ -52,23 +42,15 @@ Goal:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-<br><br>
+<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-
-<img src="https://img.shields.io/badge/Data%20Cleaning-0099ff?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Data%20Visualization-6f42c1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 
 </div>
 
@@ -87,13 +69,11 @@ Goal:
 
 ✔ Exploratory Data Analysis
 
-✔ SQL Business Queries
+✔ SQL Analysis
 
 ✔ Tableau Dashboard
 
-**Tech Stack**
-
-Python • SQL • Tableau • Excel
+**Tech:** Python • SQL • Tableau • Excel
 
 </td>
 
@@ -105,13 +85,11 @@ Python • SQL • Tableau • Excel
 
 ✔ Revenue Analysis
 
-✔ Interactive Filters
+✔ Interactive Reports
 
 ✔ Business Insights
 
-**Tech Stack**
-
-Power BI • Excel
+**Tech:** Power BI • Excel
 
 </td>
 
@@ -129,11 +107,9 @@ Power BI • Excel
 
 ✔ Customer Insights
 
-✔ Dynamic Dashboard
+✔ Interactive Dashboard
 
-**Tech Stack**
-
-Tableau • Excel
+**Tech:** Tableau • Excel
 
 </td>
 
@@ -147,7 +123,7 @@ Tableau • Excel
 
 ✔ Dataset Validation
 
-✔ AI Training Data
+✔ Quality Assurance
 
 </td>
 
@@ -179,6 +155,8 @@ Tableau • Excel
 
 <div align="center">
 
-### ✨ *"Turning Data into Decisions through Analytics and Visualization."*
+### 💡 *"Turning data into meaningful insights through analytics and visualization."*
+
+⭐ **Thanks for visiting my profile!**
 
 </div>
