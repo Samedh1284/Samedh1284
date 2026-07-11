@@ -1,52 +1,167 @@
+<!-- ===================== HEADER ===================== -->
+
+<h1 align="center">Hi 👋, I'm Samedh Khobare</h1>
+
+<h3 align="center">
+📊 Data Analyst | BE Computer Science (AI & ML)
+</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Samedh+Khobare;Data+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau;Turning+Data+Into+Insights+📊" alt="Typing SVG" />
+Turning Data Into Insights 📈
 </p>
 
-## 👨‍💻 About Me
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=800&lines=Data+Analyst;Python+Developer;SQL+%7C+Power+BI+%7C+Tableau;Machine+Learning+Enthusiast;Always+Learning+New+Things" />
+</p>
 
-🎓 BE Computer Science (AI & ML)
+---
 
-📊 Aspiring Data Analyst
+# 👨‍💻 About Me
+
+🎓 **BE Computer Science (AI & ML)**
+
+📊 Aspiring **Data Analyst**
 
 📍 Maharashtra, India
 
-🌱 Currently learning Power BI, SQL & Machine Learning
-
 💼 Open to Data Analyst Opportunities
 
----
-
-## 🛠 Skills
-
-- Python
-- SQL
-- Excel
+🌱 Currently Learning
+- Advanced SQL
 - Power BI
-- Tableau
-- MySQL
-- Pandas
-- NumPy
-- Git
-- GitHub
+- Machine Learning
 
 ---
 
-## 📂 Featured Projects
+# 💻 Tech Stack
 
-📈 Online Retail Analysis
+<p align="center">
 
-💰 PhonePe Dashboard
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode"/>
 
-📦 Amazon Sales Dashboard
+</p>
 
-📊 Excel Sales Dashboard
+<p align="center">
+
+<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
+</p>
 
 ---
 
-## 📫 Connect
+# 📊 GitHub Stats
 
-GitHub: https://github.com/Samedh1284
+<p align="center">
 
-LinkedIn: [SAMEDH KHOBARE](https://www.linkedin.com/in/samedh-khobare-7b6592370/)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Samedh1284&show_icons=true&theme=tokyonight"/>
 
-Email: samedh1284@gmail.com
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samedh1284&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Samedh1284&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Samedh1284&theme=tokyonight&row=1&column=7"/>
+
+</p>
+
+---
+
+# 📂 Featured Projects
+
+| Project | Description | Tools |
+|----------|-------------|------|
+| 📈 Online Retail Sales Analysis | Data Cleaning, EDA & Dashboard | Python, SQL, Tableau |
+| 💰 PhonePe Dashboard | Interactive Business Dashboard | Power BI |
+| 📦 Amazon Sales Dashboard | Sales & Profit Analysis | Tableau |
+| 📊 Excel Sales Dashboard | KPI Dashboard | Excel |
+
+---
+
+# 💼 Experience
+
+## AI Data Associate
+
+✔ Data Collection
+
+✔ Data Annotation
+
+✔ Data Validation
+
+✔ Dataset Preparation
+
+✔ Quality Assurance
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Samedh1284&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 📊 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Samedh1284&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
+
+---
+
+# 💡 Quote
+
+> **"Turning Data into Decisions through Analytics and Visualization."**
+
+---
+
+<h3 align="center">⭐ Thank you for visiting my profile! ⭐</h3>
