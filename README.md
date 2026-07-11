@@ -55,6 +55,6 @@ Turning Data into Insights 📊
 
 GitHub: https://github.com/Samedh1284
 
-LinkedIn: [YOUR_LINKEDIN](https://www.linkedin.com/in/samedh-khobare-7b6592370/)
+LinkedIn: [SAMEDH KHOBARE](https://www.linkedin.com/in/samedh-khobare-7b6592370/)
 
 Email: samedh1284@gmail.com
