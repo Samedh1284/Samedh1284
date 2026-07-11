@@ -1,9 +1,5 @@
 <div align="center">
 
-# 👋 Hi, I'm Samedh Khobare
-
-### 📊 Data Analyst | BE Computer Science (AI & ML)
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=Hi+👋,+I'm+Samedh+Khobare;Data+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau+%7C+Excel;Transforming+Data+into+Actionable+Insights;Building+Interactive+Dashboards;Always+Learning+and+Growing;Open+to+Data+Analyst+Opportunities" alt="Typing SVG"/>
 
 </div>
